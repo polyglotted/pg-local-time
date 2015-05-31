@@ -4,7 +4,7 @@ node_js:
   - "iojs"
 
 notifications:
-  slack: SLACK_ORG:SLACK_TOKEN
+  slack: polyglotted:oI752wOHgUY3xWHyCqXRhLs3
 
 before_install:
   - npm i -g codeclimate-test-reporter
