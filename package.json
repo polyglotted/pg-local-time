@@ -1,0 +1,30 @@
+{
+  "name": "pg-local-time",
+  "description": "",
+  "version": "0.0.0",
+  "main": "lib/pg-local-time.js",
+  "main-es6": "src/pg-local-time.es6",
+  "scripts": {
+    "test": "gulp test",
+    "build": "gulp build"
+  },
+  "author": {
+    "name": "Ahmed Nuaman",
+    "email": "ahmed@ahmednuaman.com"
+  },
+  "files": [
+    "dist/",
+    "lib/",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:polyglotted/pg-local-time.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-fibre-tasks": "^1.0.6"
+  },
+  "dependencies": {}
+}
